@@ -1,0 +1,135 @@
+Sentence,Response,SpanishLevel
+"Hello, how are you today?","I'm fine, gracias for asking.",1
+"Can you tell me where is the biblioteca?","The library is down the street on the left.",2
+"I need to comprar some groceries today.","What do you need to buy from the store?",2
+"Do you know what tiempo it is?","It's three o'clock in the afternoon.",2
+"I really enjoyed that película last night.","Yes, the movie was great! Which part did you like most?",3
+"Could you pass me that libro, por favor?","Here's the book you asked for.",3
+"My amigo and I are going to the beach tomorrow.","That sounds fun! Which beach will you visit?",3
+"Buenos días! Do you want some coffee?","Good morning! Yes, I would love some coffee, thank you.",4
+"I need to practice mi español more often.","You're doing well! Let's practice juntos sometime.",4
+"Hola! How was your día at work?","It was busy but productive, gracias por preguntar.",5
+"Me gusta this restaurant because the food is delicious.","Yo también! Their tacos are especially buenos.",5
+"Can you ayudarme with this homework, please?","Claro, I'm happy to help you with your tarea.",5
+"Necesito to buy a new phone este fin de semana.","There are good ofertas at the mall right now.",6
+"El concierto last night was increíble!","Sí, the band played muy bien, I loved it!",6
+"Vamos to the park esta tarde?","Sounds good! Llevaré some snacks for the picnic.",6
+"Mi hermano says hola and wants to know cuando vienes.","Tell him I'll visit next domingo if that works.",7
+"No puedo find my keys, have you seen them?","Están on the table next to your wallet.",7
+"Estoy learning to cook comida mexicana.","That's great! Deberías try making enchiladas.",7
+"Por favor help me entender this problema de matemáticas.","Claro que sí, the solution requires using esta fórmula.",8
+"Mañana voy to visit my abuela in the hospital.","Espero que she feels better soon. ¿Necesitas company?",8
+"¿Has visto my new coche that I bought ayer?","Sí, es very nice! Me gusta el color mucho.",8
+"Tengo que finish this trabajo before el viernes.","No te preocupes, I can help you terminarlo.",8
+"¿Qué piensas about the movie we saw anoche?","Me pareció fantastic! The ending was unexpected.",9
+"Necesito practicar my English pero it's difícil sometimes.","You're doing well! Solo necesitas more practice.",9
+"Me encantaría visit that museum when I go to New York.","Es amazing! You should plan at least tres horas there.",9
+"¿Puedes explicarme how this app works?","Claro, primero you need to create an account, then...",9
+"Estoy muy excited porque voy a España next month!","¡Qué bueno! You're going to love la comida there.",9
+"No entiendo why people don't recycle más.","Es verdad. We should all cuidar mejor our planet.",9
+"Buenos días! Did you sleep bien?","Sí, dormí very well, gracias for asking!",10
+"¿Podrías ayudarme with these groceries, por favor?","Por supuesto! Let me take algunas bolsas for you.",10
+"Vamos a la playa tomorrow if hace buen tiempo.","¡Excelente idea! I'll bring mi traje de baño.",10
+"Necesito estudiar para mi exam de history mañana.","Te puedo help if you want. Tengo buenos apuntes.",10
+"Mi abuela always hace the best tamales for Christmas.","¡Qué rico! Las abuelas always tienen las mejores recetas.",10
+"Do you know any good restaurants nearby?","Yes, there's a bueno Mexican place around the corner.",1
+"I heard you started learning Spanish recently.","Sí, it's been interesting so far.",1
+"The weather is beautiful today, isn't it?","Yes, it's perfecto for a walk in the park.",1
+"What time does the meeting start tomorrow?","La reunión begins at 9 AM sharp.",2
+"I lost my phone somewhere in the house.","Did you check debajo de the couch?",2
+"Have you tried the new café downtown?","Yes, their pasteles are amazing!",2
+"This book is really interesting.","What's it sobre? I might read it too.",2
+"Could you help me with directions?","Sí, where are you trying to go?",3
+"I need to finish this project by Friday.","Don't worry, you have tiempo suficiente.",3
+"My car broke down on the highway.","Qué terrible! Did you call for assistance?",3
+"How was your vacation last week?","It was increíble! The beaches were beautiful.",3
+"I'm looking for a gift for my mother.","What kind of cosas does she like?",4
+"The concert starts at eight o'clock.","Gracias por recordarme. I almost forgot.",4
+"Can we reschedule our meeting?","Sí, what día works better for you?",4
+"I don't understand this math problem.","Let me explicar how to solve it.",4
+"My sister is coming to visit mañana.","How long will she estar with you?",5
+"Do you want to grab lunch juntos?","Sure, what type of food are you in the mood for?",5
+"I'm really tired from trabajo today.","Maybe you should take a descanso.",5
+"Have you seen the llaves to my car?","I think they're on the mesa in the kitchen.",5
+"Me gustaría to practice English more often.","We can meet for coffee and practice both languages.",6
+"The fiesta last night was so much fun.","Sí, I especially enjoyed the música and dancing.",6
+"¿Puedes recommend a good movie to watch?","I recently saw one that you might disfrutar.",6
+"Tengo que submit this application by tomorrow.","Don't forget to revisar it carefully first.",6
+"La clase de Spanish is getting more difícil.","Keep practicing and it will get easier con tiempo.",7
+"¿Has tried the new restaurant en downtown?","Not yet, but I've heard the comida is excellent.",7
+"No entiendo why this isn't working correctly.","Let me take a look at the problema.",7
+"Mis padres are visiting from Mexico next week.","That's wonderful! ¿Cuánto tiempo will they stay?",7
+"Olvidé my umbrella at your casa yesterday.","No problem, I'll bring it to work mañana.",7
+"Necesito ayuda with this translation, por favor.","Send me the documento and I'll help you.",8
+"¿Qué opinas about the new policy at work?","I think it's going to be difícil to implement.",8
+"Voy a the gym tres veces a week.","That's a good rutina. I should exercise more too.",8
+"Mi vecino always plays música muy loudly.","Have you tried hablar con él about it?",8
+"La película that you recommended was excelente.","I'm glad you enjoyed it! The director is muy talentoso.",8
+"Estoy planning a trip to Mexico en December.","The weather will be perfecto there that time of year.",9
+"No puedo believe they cancelled the concierto.","Es una lástima, I was really looking forward to it.",9
+"Me encanta how this city looks in the spring.","Sí, todas las flores make everything so beautiful.",9
+"¿Has ever visited la costa of California?","Once, when I was niño. It was amazing.",9
+"Quiero learn how to make authentic paella.","Mi abuela has a great receta I can share with you.",9
+"Los niños are playing in the parque across the street.","They seem to be having mucha diversión.",10
+"Te he been looking for este libro everywhere!","Me alegro that you finally found it.",10
+"¿Podrías drop me off at el aeropuerto tomorrow?","Claro, what time es tu flight?",10
+"No me gusta this new update on my phone.","You can probably change it back in the configuración.",10
+"Siempre forget to water mis plantas.","Maybe set an alarma to remind yourself.",10
+"What did you think about la película we saw?","The acting was bueno but the story was confusing.",2
+"I forgot to bring mi paraguas today.","Don't worry, you can borrow mine if it rains.",3
+"How do you say 'delicious' en español?","It's 'delicioso' - now you try saying it.",3
+"The meeting was cancelled debido a technical problems.","That's frustrating. When will they reschedule?",4
+"I'm practicing my pronunciation todos los días.","I can tell you're improving! Keep it up.",4
+"Could you pass la sal, please?","Here you go. Would you like the pepper too?",4
+"Let's meet at the café en la esquina.","Perfect, what time works for you?",5
+"I love listening to música latina.","Me too! Do you have a favorite artista?",5
+"My computer está acting very strange today.","Have you tried reiniciarlo?",6
+"¿Dónde did you park your car?","In the garage behind the edificio.",6
+"Tenemos que finish this project by next week.","We'll need to work este fin de semana then.",6
+"I can't find donde I put my glasses.","They're right there on your cabeza!",7
+"Me gustaría to travel to Europe someday.","Which countries would you like to visitar first?",7
+"La tarea for this class is really challenging.","Maybe we could study together to make it easier.",7
+"No tengo enough time to finish all my work.","Try making a lista de prioridades.",8
+"¿Can you explain cómo this machine works?","First you press este botón, then adjust the settings.",8
+"Vamos a try that new restaurant on Saturday?","That sounds good! I've heard their comida is excellent.",8
+"Necesito to buy some regalos for my family.","The mall está having good sales right now.",8
+"El profesor said the exam will be muy difficult.","We should start preparing this weekend.",9
+"No me gusta driving in heavy traffic.","I know, it's tan estresante and time-consuming.",9
+"Estaba thinking we could go camping next month.","That's a great idea! Where would you like to go?",9
+"Mi hermana always knows how to make me laugh.","Family es so important. You're lucky to have her.",9
+"Quiero to improve my accent in Spanish.","Listening to native speakers te ayudará a lot.",10
+"¿Has seen the forecast para el weekend?","Yes, it looks like it's going to llover.",10
+"Estoy really excited about mi nuevo job.","¡Felicidades! When do you empezar?",10
+"No puedo decide what to cook for dinner tonight.","What about making something simple like pasta?",10
+"Where did you comprar those shoes? They're nice.","At the store en el centro comercial downtown.",3
+"I need to hacer laundry this weekend.","Don't forget to separate whites and colors.",4
+"The profesor explained the concept very well.","Yes, his explanations are always claras.",5
+"Let's go for a walk en el parque.","Great idea! The weather is perfect for it.",5
+"I'm learning to cook comida italiana.","Italian food is deliciosa! What dishes have you tried?",6
+"Mi coche broke down again yesterday.","Maybe it's time to consider buying a nuevo one.",6
+"¿Has finished reading that book yet?","Almost, only ten more páginas to go.",7
+"Tengo que send these emails before I leave.","Don't forget to attach los documentos.",7
+"Me duele my back from sitting all day.","You should take more descansos and stretch.",8
+"¿What time cierra the store today?","I think at nine, but podemos check online.",8
+"Estoy searching for a new apartamento in this area.","The rent here is bastante expensive, isn't it?",9
+"No pude sleep well anoche.","Maybe you should try drinking té de manzanilla.",9
+"Los niños loved the birthday cake you made.","I'm glad! It took me horas to decorate it.",10
+"Necesito your advice on something importante.","Of course I'm happy to help con cualquier cosa.",10
+"Can you tell me the hora please?","Es las cinco y media de la tarde.",5
+"I really enjoyed la fiesta last night.","Me too especially the comida and música!",6
+"Mi jefe wants the report finished by tomorrow.","You better start working on it right away then.",7
+"¿Do you think va a rain later today?","The forecast said there's a buena chance.",7
+"No me gusta this painting very much.","Art is subjective! What tipo do you prefer?",8
+"I need to practice mi pronunciación more.","Let's set up regular practice sesiones together.",8
+"Tengo a meeting con mi profesor tomorrow.","What time is your appointment programada?",9
+"¿Has ever tried to make homemade tortillas?","Once but they didn't turn out muy bien.",9
+"Los estudiantes in my class are from all over the world.","That's wonderful! Must be an enriching experiencia.",10
+"Siempre get lost when I drive in this city.","Maybe you should use a GPS app para ayudarte.",10
+"What time does the película start?","La función begins at eight thirty.",4
+"I need to buy un regalo for my girlfriend's birthday.","What kind of things does she like?",4
+"The restaurant was lleno when we arrived.","Did you have to wait long for a table?",5
+"Me encanta the way you decorated your home.","Thank you! It took me a while to get it right.",5
+"Can you explain how this programa works?","First you need to crear una cuenta then...",6
+"Mi vecino is always playing loud music late at night.","Have you tried talking to them about it?",6
+"¿How did you learn to cook tan bien?","My grandmother taught me when I was young.",7
+"El examen was much harder than I expected.","Don't worry I'm sure you did fine.",7
