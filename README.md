@@ -15,6 +15,9 @@ A modern, interactive platform designed to learn language through interractive c
 
 - 👩‍🏫 **Teacher Profiles** - Models with different intensities and interests
 
+## 🤖 Model Finetuning
+The [finetuning script](NLP_Project_LLM_Finetuning.ipynb) might have some issues displaying on Github. You can directly view the [Colab Notebook](https://colab.research.google.com/drive/1gL3E8GKuJBjWoaoGwNPOx5To72tVIy08?usp=sharing), make a copy and test the finetuning.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
