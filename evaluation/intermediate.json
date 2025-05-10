@@ -1,0 +1,802 @@
+[
+  {
+    "prompt": "We should go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "Let's have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "What's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "Let's meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "Let's read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "Let's go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "Let's have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "What's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Have you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "We should meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "Let's read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "We should go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "Let's have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "What's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "Let's meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "Let's read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "Let's go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "Let's have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "What's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "Let's meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "We should read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "Let's go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "Let's have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "Do you know what's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "Let's meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "Let's read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "Let's go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "We should have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "What's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "We should meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "Let's read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "Let's go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Would you mind bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "We should have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "What's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "We should meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "We should read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "Let's go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "Let's have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "What's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "We should meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "Let's read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "We should go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "Let's have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "What's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "Let's meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  },
+  {
+    "prompt": "Where to?",
+    "response": "To the montañas!"
+  },
+  {
+    "prompt": "Can I borrow your lápiz?",
+    "response": "Sure, just don't lose it."
+  },
+  {
+    "prompt": "Is your hermana coming to the party?",
+    "response": "Sí, ella will be here soon."
+  },
+  {
+    "prompt": "There's a fiesta at Juan's house tonight.",
+    "response": "Cool, let's bring some bebidas."
+  },
+  {
+    "prompt": "Did you see that accidente on the road?",
+    "response": "Sí, near the puente. It looked bad."
+  },
+  {
+    "prompt": "Do you like música latina?",
+    "response": "Of course! Especially salsa and bachata."
+  },
+  {
+    "prompt": "She made sopa for dinner.",
+    "response": "Yum, I love sopa de pollo."
+  },
+  {
+    "prompt": "The niños are playing in the yard.",
+    "response": "They're having so much diversión."
+  },
+  {
+    "prompt": "Where's the baño?",
+    "response": "It's next to the escaleras."
+  },
+  {
+    "prompt": "We should read this libro together.",
+    "response": "Great, I love historias about adventures."
+  },
+  {
+    "prompt": "We should go to the mercado to buy some frutas.",
+    "response": "Yes, and maybe some pan from the panadería too."
+  },
+  {
+    "prompt": "Do you like tortillas?",
+    "response": "Sí, especially with queso and pollo."
+  },
+  {
+    "prompt": "I forgot my cuaderno at home.",
+    "response": "You can borrow mine for clase today."
+  },
+  {
+    "prompt": "We watched a great película last night.",
+    "response": "Nice! I love cine on the weekends."
+  },
+  {
+    "prompt": "Can you bring your mochila?",
+    "response": "Claro, it has all the materiales."
+  },
+  {
+    "prompt": "Let's have almuerzo outside today.",
+    "response": "Buena idea. The clima is perfect."
+  },
+  {
+    "prompt": "Do you know what's for cena tonight?",
+    "response": "Maybe arroz with some vegetables."
+  },
+  {
+    "prompt": "Did you feed the perro?",
+    "response": "Yes, I gave him comida and water."
+  },
+  {
+    "prompt": "We should meet at the plaza after school.",
+    "response": "Perfecto. I'll be there at cuatro."
+  },
+  {
+    "prompt": "She bought a new chaqueta yesterday.",
+    "response": "I saw it. It's very bonita."
+  },
+  {
+    "prompt": "We're going on a viaje next weekend.",
+    "response": "Where to?"
+  }
+]

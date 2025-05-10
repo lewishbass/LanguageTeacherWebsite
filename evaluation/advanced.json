@@ -1,0 +1,802 @@
+[
+  {
+    "prompt": "¡Qué planes tienes para el fin de semana!",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¿Cómo estuvo tu día?",
+    "response": "Un poco largo, pero aprendí mucho en clase."
+  },
+  {
+    "prompt": "¡Has probado la comida peruana!",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¿A qué hora empieza la película?",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, pero primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¿Qué hiciste ayer por la tarde?",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¿Dónde compraste esa chaqueta?",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¿Te gusta leer novelas?",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¿Cuál tal estuvo el concierto?",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, pero feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¡Dónde naciste!",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¿Cuántos hermanos tienes?",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¡Qué estás haciendo ahora!",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¿Te gusta el arte moderno?",
+    "response": "Algunas piezas me gustan, aunque prefiero el arte clásico."
+  },
+  {
+    "prompt": "¿Has ido alguna vez a España?",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¡Qué opinas de la nueva profesora!",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¡Tienes planes para las vacaciones!",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¡Cuál es tu plato favorito!",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¿Qué planes tienes para el fin de semana?",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¿Cómo estuvo tu día?",
+    "response": "Un poco largo, pero aprendí mucho en clase."
+  },
+  {
+    "prompt": "¿Has probado la comida peruana?",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¡A qué hora empieza la película!",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, pero primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¡Qué hiciste ayer por la tarde!",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¿Dónde compraste esa chaqueta?",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¡Te gusta leer novelas!",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¿Qué tal estuvo el concierto?",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, pero feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¿Dónde naciste?",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¡Cuántos hermanos tienes!",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¿Cuál estás haciendo ahora?",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¿Te gusta el arte moderno?",
+    "response": "Algunas piezas me gustan, aunque prefiero el arte clásico."
+  },
+  {
+    "prompt": "¿Has ido alguna vez a España?",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¡Qué opinas de la nueva profesora!",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¡Tienes planes para las vacaciones!",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¿Cuál es tu plato favorito?",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¿Qué planes tienes para el fin de semana?",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¿Cómo estuvo tu día?",
+    "response": "Un poco largo, pero aprendí mucho en clase."
+  },
+  {
+    "prompt": "¿Has probado la comida peruana?",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¿A qué hora empieza la película?",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, pero primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¿Cuál hiciste ayer por la tarde?",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¿Dónde compraste esa chaqueta?",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¿Te gusta leer novelas?",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¡Qué tal estuvo el concierto!",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¡Cómo te sientes hoy!",
+    "response": "Un poco cansado, pero feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¿Dónde naciste?",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¡Cuántos hermanos tienes!",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¿Qué estás haciendo ahora?",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¿Te gusta el arte moderno?",
+    "response": "Algunas piezas me gustan, pero prefiero el arte clásico."
+  },
+  {
+    "prompt": "¡Has ido alguna vez a España!",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¿Qué opinas de la nueva profesora?",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¿Tienes planes para las vacaciones?",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¿Cuál es tu plato favorito?",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¿Qué planes tienes para el fin de semana?",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¡Cómo estuvo tu día!",
+    "response": "Un poco largo, pero aprendí mucho en clase."
+  },
+  {
+    "prompt": "¿Has probado la comida peruana?",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¿A qué hora empieza la película?",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, aunque primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¿Qué hiciste ayer por la tarde?",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¡Dónde compraste esa chaqueta!",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¿Te gusta leer novelas?",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¿Qué tal estuvo el concierto?",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, aunque feliz de verte."
+  },
+  {
+    "prompt": "¡Te acuerdas del restaurante del que te hablé!",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¡Dónde naciste!",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¿Cuántos hermanos tienes?",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¿Qué estás haciendo ahora?",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¡Te gusta el arte moderno!",
+    "response": "Algunas piezas me gustan, pero prefiero el arte clásico."
+  },
+  {
+    "prompt": "¡Has ido alguna vez a España!",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¿Qué opinas de la nueva profesora?",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¿Tienes planes para las vacaciones?",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¿Cuál es tu plato favorito?",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¿Cuál planes tienes para el fin de semana?",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¿Cómo estuvo tu día?",
+    "response": "Un poco largo, aunque aprendí mucho en clase."
+  },
+  {
+    "prompt": "¿Has probado la comida peruana?",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¿A qué hora empieza la película?",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, pero primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¿Qué hiciste ayer por la tarde?",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¡Dónde compraste esa chaqueta!",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¿Te gusta leer novelas?",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¿Cuál tal estuvo el concierto?",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, aunque feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¡Dónde naciste!",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¡Cuántos hermanos tienes!",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¿Cuál estás haciendo ahora?",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¿Te gusta el arte moderno?",
+    "response": "Algunas piezas me gustan, aunque prefiero el arte clásico."
+  },
+  {
+    "prompt": "¿Has ido alguna vez a España?",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¡Qué opinas de la nueva profesora!",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¿Tienes planes para las vacaciones?",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¿Cuál es tu plato favorito?",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¿Qué planes tienes para el fin de semana?",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¿Cómo estuvo tu día?",
+    "response": "Un poco largo, pero aprendí mucho en clase."
+  },
+  {
+    "prompt": "¡Has probado la comida peruana!",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¿A qué hora empieza la película?",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, pero primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¿Qué hiciste ayer por la tarde?",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¿Dónde compraste esa chaqueta?",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¡Te gusta leer novelas!",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¿Cuál tal estuvo el concierto?",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, pero feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¿Dónde naciste?",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¿Cuántos hermanos tienes?",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¿Cuál estás haciendo ahora?",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¿Te gusta el arte moderno?",
+    "response": "Algunas piezas me gustan, pero prefiero el arte clásico."
+  },
+  {
+    "prompt": "¿Has ido alguna vez a España?",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¿Cuál opinas de la nueva profesora?",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¿Tienes planes para las vacaciones?",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¡Cuál es tu plato favorito!",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¿Qué planes tienes para el fin de semana?",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¿Cómo estuvo tu día?",
+    "response": "Un poco largo, aunque aprendí mucho en clase."
+  },
+  {
+    "prompt": "¡Has probado la comida peruana!",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¿A qué hora empieza la película?",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, pero primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¡Qué hiciste ayer por la tarde!",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¡Dónde compraste esa chaqueta!",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¿Te gusta leer novelas?",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¡Qué tal estuvo el concierto!",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, aunque feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¿Dónde naciste?",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¿Cuántos hermanos tienes?",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¡Qué estás haciendo ahora!",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¡Te gusta el arte moderno!",
+    "response": "Algunas piezas me gustan, pero prefiero el arte clásico."
+  },
+  {
+    "prompt": "¿Has ido alguna vez a España?",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¿Qué opinas de la nueva profesora?",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¿Tienes planes para las vacaciones?",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¿Cuál es tu plato favorito?",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¡Qué planes tienes para el fin de semana!",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¡Cómo estuvo tu día!",
+    "response": "Un poco largo, pero aprendí mucho en clase."
+  },
+  {
+    "prompt": "¿Has probado la comida peruana?",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¡A qué hora empieza la película!",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, aunque primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¿Qué hiciste ayer por la tarde?",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¿Dónde compraste esa chaqueta?",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¿Te gusta leer novelas?",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¡Qué tal estuvo el concierto!",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, aunque feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¿Dónde naciste?",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¡Cuántos hermanos tienes!",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¡Qué estás haciendo ahora!",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¿Te gusta el arte moderno?",
+    "response": "Algunas piezas me gustan, pero prefiero el arte clásico."
+  },
+  {
+    "prompt": "¿Has ido alguna vez a España?",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¿Qué opinas de la nueva profesora?",
+    "response": "Es muy estricta, aunque sabe mucho de su materia."
+  },
+  {
+    "prompt": "¿Tienes planes para las vacaciones?",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¿Cuál es tu plato favorito?",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¡Qué planes tienes para el fin de semana!",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¿Cómo estuvo tu día?",
+    "response": "Un poco largo, pero aprendí mucho en clase."
+  },
+  {
+    "prompt": "¿Has probado la comida peruana?",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¿A qué hora empieza la película?",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¡Puedes ayudarme con esta tarea!",
+    "response": "Claro, pero primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¿Cuál hiciste ayer por la tarde?",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¿Dónde compraste esa chaqueta?",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¡Te gusta leer novelas!",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¡Qué tal estuvo el concierto!",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, aunque feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¿Dónde naciste?",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¿Cuántos hermanos tienes?",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¿Qué estás haciendo ahora?",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¿Te gusta el arte moderno?",
+    "response": "Algunas piezas me gustan, aunque prefiero el arte clásico."
+  },
+  {
+    "prompt": "¿Has ido alguna vez a España?",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¿Cuál opinas de la nueva profesora?",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¿Tienes planes para las vacaciones?",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¿Cuál es tu plato favorito?",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  },
+  {
+    "prompt": "¿Cuál planes tienes para el fin de semana?",
+    "response": "Voy a visitar a mis abuelos y después saldré con unos amigos."
+  },
+  {
+    "prompt": "¡Cómo estuvo tu día!",
+    "response": "Un poco largo, pero aprendí mucho en clase."
+  },
+  {
+    "prompt": "¿Has probado la comida peruana?",
+    "response": "Sí, me encanta el ceviche y el lomo saltado."
+  },
+  {
+    "prompt": "¿A qué hora empieza la película?",
+    "response": "A las siete en punto, pero quiero llegar temprano para comprar palomitas."
+  },
+  {
+    "prompt": "¿Puedes ayudarme con esta tarea?",
+    "response": "Claro, pero primero necesito terminar mi propio trabajo."
+  },
+  {
+    "prompt": "¿Cuál hiciste ayer por la tarde?",
+    "response": "Fui al gimnasio y luego cociné una cena deliciosa."
+  },
+  {
+    "prompt": "¡Dónde compraste esa chaqueta!",
+    "response": "En una tienda pequeña cerca del centro. Tenían muchas ofertas."
+  },
+  {
+    "prompt": "¿Te gusta leer novelas?",
+    "response": "Sí, sobre todo las de misterio y aventuras."
+  },
+  {
+    "prompt": "¿Cuál tal estuvo el concierto?",
+    "response": "¡Increíble! La banda tocó todas mis canciones favoritas."
+  },
+  {
+    "prompt": "¿A dónde vamos mañana?",
+    "response": "Pensaba que podríamos ir al museo o tal vez al parque."
+  },
+  {
+    "prompt": "¿Cómo te sientes hoy?",
+    "response": "Un poco cansado, pero feliz de verte."
+  },
+  {
+    "prompt": "¿Te acuerdas del restaurante del que te hablé?",
+    "response": "Sí, ¿vamos esta noche? Me muero por probar la paella."
+  },
+  {
+    "prompt": "¿Dónde naciste?",
+    "response": "Nací en una ciudad pequeña al norte del país."
+  },
+  {
+    "prompt": "¿Cuántos hermanos tienes?",
+    "response": "Tengo dos hermanas mayores y un hermano menor."
+  },
+  {
+    "prompt": "¿Qué estás haciendo ahora?",
+    "response": "Estoy leyendo un libro sobre historia latinoamericana."
+  },
+  {
+    "prompt": "¿Te gusta el arte moderno?",
+    "response": "Algunas piezas me gustan, pero prefiero el arte clásico."
+  },
+  {
+    "prompt": "¿Has ido alguna vez a España?",
+    "response": "Sí, el año pasado estuve en Madrid y Barcelona."
+  },
+  {
+    "prompt": "¡Qué opinas de la nueva profesora!",
+    "response": "Es muy estricta, pero sabe mucho de su materia."
+  },
+  {
+    "prompt": "¿Tienes planes para las vacaciones?",
+    "response": "Sí, quiero viajar al sur y visitar la playa."
+  },
+  {
+    "prompt": "¿Cuál es tu plato favorito?",
+    "response": "Me encanta la lasaña, especialmente si tiene mucho queso."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "prompt":"Let's cook something tonight.",
+    "response":"Great! How about pasta with queso?"
+  },
+  {
+    "prompt":"Do you think it'll rain?",
+    "response":"Maybe. The nubes look dark."
+  },
+  {
+    "prompt":"Where are you going this weekend?",
+    "response":"I'm visiting the playa with my cousins."
+  },
+  {
+    "prompt":"What's the weather like?",
+    "response":"Very windy, bring a bufanda."
+  },
+  {
+    "prompt":"Where's the library?",
+    "response":"It's next to the cafetería."
+  },
+  {
+    "prompt":"Are your friends coming too?",
+    "response":"Sí, ellos are on their way."
+  },
+  {
+    "prompt":"What's your best friend's name?",
+    "response":"Sofía, she's the best."
+  },
+  {
+    "prompt":"What's your next class?",
+    "response":"I have matemáticas in Room 204."
+  },
+  {
+    "prompt":"I love sunny days.",
+    "response":"Me too. The sol feels nice."
+  },
+  {
+    "prompt":"Do you like your teacher?",
+    "response":"Yes, la profesora is very kind."
+  },
+  {
+    "prompt":"Is the hotel nice?",
+    "response":"Sí, it has a great vista of the ocean."
+  },
+  {
+    "prompt":"Do we have homework today?",
+    "response":"Yes, just a little for historia."
+  },
+  {
+    "prompt":"What's your favorite fruit?",
+    "response":"I love mangos and fresas."
+  },
+  {
+    "prompt":"Did you eat breakfast?",
+    "response":"Yes, I had some pan and a glass of jugo."
+  },
+  {
+    "prompt":"Are you okay?",
+    "response":"Yes, just feeling a bit cansado."
+  },
+  {
+    "prompt":"How was your trip?",
+    "response":"Amazing! The ciudad was beautiful."
+  },
+  {
+    "prompt":"How do you know him?",
+    "response":"We met in clase last year."
+  },
+  {
+    "prompt":"Was the test hard?",
+    "response":"Sí, but I feel bien about it."
+  },
+  {
+    "prompt":"It's so hot today!",
+    "response":"Yes, let's get some agua fría."
+  },
+  {
+    "prompt":"Do you have your passport?",
+    "response":"Yes, it's in my mochila."
+  },
+  {
+    "prompt":"What do you want for dinner tonight?",
+    "response":"Maybe some pollo with rice and ensalada."
+  },
+  {
+    "prompt":"Is it cold outside?",
+    "response":"Sí, don't forget your chaqueta."
+  },
+  {
+    "prompt":"Want to get ice cream?",
+    "response":"Yes! Let's get helado de chocolate."
+  },
+  {
+    "prompt":"Did you enjoy the movie?",
+    "response":"Yes! It made me feel so emocionado."
+  },
+  {
+    "prompt":"Do you want to go to the mountains?",
+    "response":"Sure, let's bring ropa for the cold."
+  },
+  {
+    "prompt":"You look upset. What happened?",
+    "response":"Just a long day. I need a siesta."
+  },
+  {
+    "prompt":"How are you feeling today?",
+    "response":"A little tired but mostly feliz."
+  },
+  {
+    "prompt":"Did you finish the assignment?",
+    "response":"Almost, just the última question left."
+  },
+  {
+    "prompt":"Do you want to hang out?",
+    "response":"Sure! Let's meet at the parque."
+  },
+  {
+    "prompt":"Are you free later?",
+    "response":"Yes, let's go get café."
+  },
+  {
+    "prompt":"Let's cook something tonight.",
+    "response":"Great! How about pasta with queso?"
+  },
+  {
+    "prompt":"Did you think it'll rain?",
+    "response":"Maybe. The nubes look dark."
+  },
+  {
+    "prompt":"Where are you going this weekend?",
+    "response":"I'm visiting the playa with my cousins."
+  },
+  {
+    "prompt":"What's the weather like?",
+    "response":"Very windy, bring a bufanda."
+  },
+  {
+    "prompt":"Where's the library?",
+    "response":"It's next to the cafetería."
+  },
+  {
+    "prompt":"Are your friends coming too?",
+    "response":"Sí, ellos are on their way."
+  },
+  {
+    "prompt":"What's your best friend's name?",
+    "response":"Sofía, she's the best."
+  },
+  {
+    "prompt":"What's your next class?",
+    "response":"I have matemáticas in Room 204."
+  },
+  {
+    "prompt":"I love sunny days.",
+    "response":"Me too. The sol feels nice."
+  },
+  {
+    "prompt":"Do you like your teacher?",
+    "response":"Yes, la profesora is very kind."
+  },
+  {
+    "prompt":"Is the hotel nice?",
+    "response":"Sí, it has a great vista of the ocean."
+  },
+  {
+    "prompt":"Do we have homework today?",
+    "response":"Yes, just a little for historia."
+  },
+  {
+    "prompt":"What's your favorite fruit?",
+    "response":"I love mangos and fresas."
+  },
+  {
+    "prompt":"Did you eat breakfast?",
+    "response":"Yes, I had some pan and a glass of jugo."
+  },
+  {
+    "prompt":"You are okay?",
+    "response":"Yes, just feeling a bit cansado."
+  },
+  {
+    "prompt":"How was your trip?",
+    "response":"Amazing! The ciudad was beautiful."
+  },
+  {
+    "prompt":"How do you know him?",
+    "response":"We met in clase last year."
+  },
+  {
+    "prompt":"Was the test hard?",
+    "response":"Sí, but I feel bien about it."
+  },
+  {
+    "prompt":"It's so hot today!",
+    "response":"Yes, let's get some agua fría."
+  },
+  {
+    "prompt":"Do you have your passport?",
+    "response":"Yes, it's in my mochila."
+  },
+  {
+    "prompt":"What do you want for dinner tonight?",
+    "response":"Maybe some pollo with rice and ensalada."
+  },
+  {
+    "prompt":"Is it cold outside?",
+    "response":"Sí, don't forget your chaqueta."
+  },
+  {
+    "prompt":"Want to get ice cream?",
+    "response":"Yes! Let's get helado de chocolate."
+  },
+  {
+    "prompt":"Did you enjoy the movie?",
+    "response":"Yes! It made me feel so emocionado."
+  },
+  {
+    "prompt":"Do you want to go to the mountains?",
+    "response":"Sure, let's bring ropa for the cold."
+  },
+  {
+    "prompt":"You look upset. What happened?",
+    "response":"Just a long day. I need a siesta."
+  },
+  {
+    "prompt":"How are you feeling today?",
+    "response":"A little tired but mostly feliz."
+  },
+  {
+    "prompt":"Did you finish the assignment?",
+    "response":"Almost, just the última question left."
+  },
+  {
+    "prompt":"Do you want to hang out?",
+    "response":"Sure! Let's meet at the parque."
+  },
+  {
+    "prompt":"Are you free later?",
+    "response":"Yes, let's go get café."
+  },
+  {
+    "prompt":"Let's cook something tonight.",
+    "response":"Great! How about pasta with queso?"
+  },
+  {
+    "prompt":"Do you think it'll rain?",
+    "response":"Maybe. The nubes look dark."
+  },
+  {
+    "prompt":"Where are you going this weekend?",
+    "response":"I'm visiting the playa with my cousins."
+  },
+  {
+    "prompt":"Which's the weather like?",
+    "response":"Very windy, bring a bufanda."
+  },
+  {
+    "prompt":"Where's the library?",
+    "response":"It's next to the cafetería."
+  },
+  {
+    "prompt":"You arer friends coming too?",
+    "response":"Sí, ellos are on their way."
+  },
+  {
+    "prompt":"Which's your best friend's name?",
+    "response":"Sofía, she's the best."
+  },
+  {
+    "prompt":"What's your next class?",
+    "response":"I have matemáticas in Room 204."
+  },
+  {
+    "prompt":"I love sunny days.",
+    "response":"Me too. The sol feels nice."
+  },
+  {
+    "prompt":"Do you like your teacher?",
+    "response":"Yes, la profesora is very kind."
+  },
+  {
+    "prompt":"Is the hotel nice?",
+    "response":"Sí, it has a great vista of the ocean."
+  },
+  {
+    "prompt":"Do we have homework today?",
+    "response":"Yes, just a little for historia."
+  },
+  {
+    "prompt":"Which's your favorite fruit?",
+    "response":"I love mangos and fresas."
+  },
+  {
+    "prompt":"Did you eat breakfast?",
+    "response":"Yes, I had some pan and a glass of jugo."
+  },
+  {
+    "prompt":"Are you okay?",
+    "response":"Yes, just feeling a bit cansado."
+  },
+  {
+    "prompt":"How was your trip?",
+    "response":"Amazing! The ciudad was beautiful."
+  },
+  {
+    "prompt":"How do you know him?",
+    "response":"We met in clase last year."
+  },
+  {
+    "prompt":"Was the test hard?",
+    "response":"Sí, but I feel bien about it."
+  },
+  {
+    "prompt":"It's so hot today!",
+    "response":"Yes, let's get some agua fría."
+  },
+  {
+    "prompt":"Did you have your passport?",
+    "response":"Yes, it's in my mochila."
+  },
+  {
+    "prompt":"What do you want for dinner tonight?",
+    "response":"Maybe some pollo with rice and ensalada."
+  },
+  {
+    "prompt":"Is it cold outside?",
+    "response":"Sí, don't forget your chaqueta."
+  },
+  {
+    "prompt":"Want to get ice cream?",
+    "response":"Yes! Let's get helado de chocolate."
+  },
+  {
+    "prompt":"Did you enjoy the movie?",
+    "response":"Yes! It made me feel so emocionado."
+  },
+  {
+    "prompt":"Do you want to go to the mountains?",
+    "response":"Sure, let's bring ropa for the cold."
+  },
+  {
+    "prompt":"You look upset. Which happened?",
+    "response":"Just a long day. I need a siesta."
+  },
+  {
+    "prompt":"How are you feeling today?",
+    "response":"A little tired but mostly feliz."
+  },
+  {
+    "prompt":"Did you finish the assignment?",
+    "response":"Almost, just the última question left."
+  },
+  {
+    "prompt":"Do you want to hang out?",
+    "response":"Sure! Let's meet at the parque."
+  },
+  {
+    "prompt":"Are you free later?",
+    "response":"Yes, let's go get café."
+  },
+  {
+    "prompt":"Let's cook something tonight.",
+    "response":"Great! How about pasta with queso?"
+  },
+  {
+    "prompt":"Did you think it'll rain?",
+    "response":"Maybe. The nubes look dark."
+  },
+  {
+    "prompt":"Where are you going this weekend?",
+    "response":"I'm visiting the playa with my cousins."
+  },
+  {
+    "prompt":"What's the weather like?",
+    "response":"Very windy, bring a bufanda."
+  },
+  {
+    "prompt":"Where's the library?",
+    "response":"It's next to the cafetería."
+  },
+  {
+    "prompt":"Are your friends coming too?",
+    "response":"Sí, ellos are on their way."
+  },
+  {
+    "prompt":"What's your best friend's name?",
+    "response":"Sofía, she's the best."
+  },
+  {
+    "prompt":"What's your next class?",
+    "response":"I have matemáticas in Room 204."
+  },
+  {
+    "prompt":"I love sunny days.",
+    "response":"Me too. The sol feels nice."
+  },
+  {
+    "prompt":"Do you like your teacher?",
+    "response":"Yes, la profesora is very kind."
+  },
+  {
+    "prompt":"Is the hotel nice?",
+    "response":"Sí, it has a great vista of the ocean."
+  },
+  {
+    "prompt":"Do we have homework today?",
+    "response":"Yes, just a little for historia."
+  },
+  {
+    "prompt":"What's your favorite fruit?",
+    "response":"I love mangos and fresas."
+  },
+  {
+    "prompt":"Did you eat breakfast?",
+    "response":"Yes, I had some pan and a glass of jugo."
+  },
+  {
+    "prompt":"Are you okay?",
+    "response":"Yes, just feeling a bit cansado."
+  },
+  {
+    "prompt":"How was your trip?",
+    "response":"Amazing! The ciudad was beautiful."
+  },
+  {
+    "prompt":"How do you know him?",
+    "response":"We met in clase last year."
+  },
+  {
+    "prompt":"Was the test hard?",
+    "response":"Sí, but I feel bien about it."
+  },
+  {
+    "prompt":"It's so hot today!",
+    "response":"Yes, let's get some agua fría."
+  },
+  {
+    "prompt":"Did you have your passport?",
+    "response":"Yes, it's in my mochila."
+  },
+  {
+    "prompt":"Which do you want for dinner tonight?",
+    "response":"Maybe some pollo with rice and ensalada."
+  },
+  {
+    "prompt":"Is it cold outside?",
+    "response":"Sí, don't forget your chaqueta."
+  },
+  {
+    "prompt":"Want to get ice cream?",
+    "response":"Yes! Let's get helado de chocolate."
+  },
+  {
+    "prompt":"Did you enjoy the movie?",
+    "response":"Yes! It made me feel so emocionado."
+  },
+  {
+    "prompt":"Do you want to go to the mountains?",
+    "response":"Sure, let's bring ropa for the cold."
+  },
+  {
+    "prompt":"You look upset. What happened?",
+    "response":"Just a long day. I need a siesta."
+  },
+  {
+    "prompt":"How are you feeling today?",
+    "response":"A little tired but mostly feliz."
+  },
+  {
+    "prompt":"Did you finish the assignment?",
+    "response":"Almost, just the última question left."
+  },
+  {
+    "prompt":"Did you want to hang out?",
+    "response":"Sure! Let's meet at the parque."
+  },
+  {
+    "prompt":"You are free later?",
+    "response":"Yes, let's go get café."
+  },
+  {
+    "prompt":"Let's cook something tonight.",
+    "response":"Great! How about pasta with queso?"
+  },
+  {
+    "prompt":"Do you think it'll rain?",
+    "response":"Maybe. The nubes look dark."
+  },
+  {
+    "prompt":"Where are you going this weekend?",
+    "response":"I'm visiting the playa with my cousins."
+  },
+  {
+    "prompt":"What's the weather like?",
+    "response":"Very windy, bring a bufanda."
+  },
+  {
+    "prompt":"Where's the library?",
+    "response":"It's next to the cafetería."
+  },
+  {
+    "prompt":"Are your friends coming too?",
+    "response":"Sí, ellos are on their way."
+  },
+  {
+    "prompt":"Which's your best friend's name?",
+    "response":"Sofía, she's the best."
+  },
+  {
+    "prompt":"Which's your next class?",
+    "response":"I have matemáticas in Room 204."
+  },
+  {
+    "prompt":"I love sunny days.",
+    "response":"Me too. The sol feels nice."
+  },
+  {
+    "prompt":"Do you like your teacher?",
+    "response":"Yes, la profesora is very kind."
+  },
+  {
+    "prompt":"Is the hotel nice?",
+    "response":"Sí, it has a great vista of the ocean."
+  },
+  {
+    "prompt":"Do we have homework today?",
+    "response":"Yes, just a little for historia."
+  },
+  {
+    "prompt":"Which's your favorite fruit?",
+    "response":"I love mangos and fresas."
+  },
+  {
+    "prompt":"Did you eat breakfast?",
+    "response":"Yes, I had some pan and a glass of jugo."
+  },
+  {
+    "prompt":"Are you okay?",
+    "response":"Yes, just feeling a bit cansado."
+  },
+  {
+    "prompt":"How was your trip?",
+    "response":"Amazing! The ciudad was beautiful."
+  },
+  {
+    "prompt":"How do you know him?",
+    "response":"We met in clase last year."
+  },
+  {
+    "prompt":"Was the test hard?",
+    "response":"Sí, but I feel bien about it."
+  },
+  {
+    "prompt":"Is it so hot today!",
+    "response":"Yes, let's get some agua fría."
+  },
+  {
+    "prompt":"Do you have your passport?",
+    "response":"Yes, it's in my mochila."
+  },
+  {
+    "prompt":"Which do you want for dinner tonight?",
+    "response":"Maybe some pollo with rice and ensalada."
+  },
+  {
+    "prompt":"Is it cold outside?",
+    "response":"Sí, don't forget your chaqueta."
+  },
+  {
+    "prompt":"Want to get ice cream?",
+    "response":"Yes! Let's get helado de chocolate."
+  },
+  {
+    "prompt":"Did you enjoy the movie?",
+    "response":"Yes! It made me feel so emocionado."
+  },
+  {
+    "prompt":"Do you want to go to the mountains?",
+    "response":"Sure, let's bring ropa for the cold."
+  },
+  {
+    "prompt":"You look upset. What happened?",
+    "response":"Just a long day. I need a siesta."
+  },
+  {
+    "prompt":"How are you feeling today?",
+    "response":"A little tired but mostly feliz."
+  },
+  {
+    "prompt":"Did you finish the assignment?",
+    "response":"Almost, just the última question left."
+  },
+  {
+    "prompt":"Do you want to hang out?",
+    "response":"Sure! Let's meet at the parque."
+  },
+  {
+    "prompt":"Are you free later?",
+    "response":"Yes, let's go get café."
+  },
+  {
+    "prompt":"Let's cook something tonight.",
+    "response":"Great! How about pasta with queso?"
+  },
+  {
+    "prompt":"Do you think it'll rain?",
+    "response":"Maybe. The nubes look dark."
+  },
+  {
+    "prompt":"Where are you going this weekend?",
+    "response":"I'm visiting the playa with my cousins."
+  },
+  {
+    "prompt":"What's the weather like?",
+    "response":"Very windy, bring a bufanda."
+  },
+  {
+    "prompt":"Where's the library?",
+    "response":"It's next to the cafetería."
+  },
+  {
+    "prompt":"You arer friends coming too?",
+    "response":"Sí, ellos are on their way."
+  },
+  {
+    "prompt":"What's your best friend's name?",
+    "response":"Sofía, she's the best."
+  },
+  {
+    "prompt":"What's your next class?",
+    "response":"I have matemáticas in Room 204."
+  },
+  {
+    "prompt":"I love sunny days.",
+    "response":"Me too. The sol feels nice."
+  },
+  {
+    "prompt":"Do you like your teacher?",
+    "response":"Yes, la profesora is very kind."
+  },
+  {
+    "prompt":"Is the hotel nice?",
+    "response":"Sí, it has a great vista of the ocean."
+  },
+  {
+    "prompt":"Do we have homework today?",
+    "response":"Yes, just a little for historia."
+  },
+  {
+    "prompt":"What's your favorite fruit?",
+    "response":"I love mangos and fresas."
+  },
+  {
+    "prompt":"Did you eat breakfast?",
+    "response":"Yes, I had some pan and a glass of jugo."
+  },
+  {
+    "prompt":"Are you okay?",
+    "response":"Yes, just feeling a bit cansado."
+  },
+  {
+    "prompt":"How was your trip?",
+    "response":"Amazing! The ciudad was beautiful."
+  },
+  {
+    "prompt":"How do you know him?",
+    "response":"We met in clase last year."
+  },
+  {
+    "prompt":"Was the test hard?",
+    "response":"Sí, but I feel bien about it."
+  },
+  {
+    "prompt":"It's so hot today!",
+    "response":"Yes, let's get some agua fría."
+  },
+  {
+    "prompt":"Do you have your passport?",
+    "response":"Yes, it's in my mochila."
+  },
+  {
+    "prompt":"What do you want for dinner tonight?",
+    "response":"Maybe some pollo with rice and ensalada."
+  },
+  {
+    "prompt":"Is it cold outside?",
+    "response":"Sí, don't forget your chaqueta."
+  },
+  {
+    "prompt":"Want to get ice cream?",
+    "response":"Yes! Let's get helado de chocolate."
+  },
+  {
+    "prompt":"Did you enjoy the movie?",
+    "response":"Yes! It made me feel so emocionado."
+  },
+  {
+    "prompt":"Do you want to go to the mountains?",
+    "response":"Sure, let's bring ropa for the cold."
+  },
+  {
+    "prompt":"You look upset. What happened?",
+    "response":"Just a long day. I need a siesta."
+  },
+  {
+    "prompt":"How are you feeling today?",
+    "response":"A little tired but mostly feliz."
+  },
+  {
+    "prompt":"Did you finish the assignment?",
+    "response":"Almost, just the última question left."
+  },
+  {
+    "prompt":"Do you want to hang out?",
+    "response":"Sure! Let's meet at the parque."
+  },
+  {
+    "prompt":"Are you free later?",
+    "response":"Yes, let's go get café."
+  },
+  {
+    "prompt":"Let's cook something tonight.",
+    "response":"Great! How about pasta with queso?"
+  },
+  {
+    "prompt":"Do you think it'll rain?",
+    "response":"Maybe. The nubes look dark."
+  },
+  {
+    "prompt":"Where are you going this weekend?",
+    "response":"I'm visiting the playa with my cousins."
+  },
+  {
+    "prompt":"What's the weather like?",
+    "response":"Very windy, bring a bufanda."
+  },
+  {
+    "prompt":"Where's the library?",
+    "response":"It's next to the cafetería."
+  },
+  {
+    "prompt":"Are your friends coming too?",
+    "response":"Sí, ellos are on their way."
+  },
+  {
+    "prompt":"What's your best friend's name?",
+    "response":"Sofía, she's the best."
+  },
+  {
+    "prompt":"What's your next class?",
+    "response":"I have matemáticas in Room 204."
+  },
+  {
+    "prompt":"I love sunny days.",
+    "response":"Me too. The sol feels nice."
+  },
+  {
+    "prompt":"Do you like your teacher?",
+    "response":"Yes, la profesora is very kind."
+  },
+  {
+    "prompt":"Is the hotel nice?",
+    "response":"Sí, it has a great vista of the ocean."
+  },
+  {
+    "prompt":"Do we have homework today?",
+    "response":"Yes, just a little for historia."
+  },
+  {
+    "prompt":"What's your favorite fruit?",
+    "response":"I love mangos and fresas."
+  },
+  {
+    "prompt":"Did you eat breakfast?",
+    "response":"Yes, I had some pan and a glass of jugo."
+  },
+  {
+    "prompt":"You are okay?",
+    "response":"Yes, just feeling a bit cansado."
+  },
+  {
+    "prompt":"How was your trip?",
+    "response":"Amazing! The ciudad was beautiful."
+  },
+  {
+    "prompt":"How do you know him?",
+    "response":"We met in clase last year."
+  },
+  {
+    "prompt":"Was the test hard?",
+    "response":"Sí, but I feel bien about it."
+  },
+  {
+    "prompt":"It's so hot today!",
+    "response":"Yes, let's get some agua fría."
+  },
+  {
+    "prompt":"Do you have your passport?",
+    "response":"Yes, it's in my mochila."
+  }
+]
